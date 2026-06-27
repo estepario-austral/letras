@@ -1,0 +1,12 @@
+{
+  "songs": [
+    {
+      "id": "the-man",
+      "title": "THE MAN",
+      "tuning": "E Standard",
+      "tempo": "120 BPM",
+      "lyrics": "In the hollow of the institution\nWhere the corridors breathe silence\nHe walks between the files\nFootsteps echo through the archives\n\nThe man with paper skin\nAnd eyes that catalog infinity\nHis fingers trace the margins\nOf decisions that were never made\n\nThey built him from statistics\nFrom the patterns of compliance\nHe knows the price of every gesture\nThe weight of unspoken words\n\nIn rooms without windows\nWhere the air tastes of copper and ozone\nHe compiles the data\nOf a thousand surrenders\n\nThe man exists in the space\nBetween what is said and what remains\nA monument to the architecture\nOf acceptable loss\n\nIn the end\nThere is no end\nOnly the persistent hum\nOf systems continuing\nWithout reason\nWithout remorse",
+      "notes": "Composition explores themes of institutional control and individual erasure. The structure mirrors surveillance systems—cyclical, comprehensive, without resolution. This is the sound of the archive itself."
+    }
+  ]
+}
